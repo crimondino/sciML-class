@@ -1,0 +1,10 @@
+# --- Python Virtual Environments ---
+env
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints
+
+# --- Data & Large Files ---
+*.pickle
+*.pkl
+*.csv
